@@ -1,1 +1,1 @@
-
+A repository focused on the implementation and exploration of YOLO (You Only Look Once) version 1, a real-time object detection model that predicts bounding boxes and class probabilities directly from full images in a single evaluation.
